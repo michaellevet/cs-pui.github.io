@@ -38,6 +38,25 @@ _Excerpt_ The Computer Science Department at the College of Charleston invites a
 
 ------------
 
+### College of Charleston
+{: #cofc2}
+
+_Excerpt_ The Computer Science Department at the College of Charleston invites applications for 1 tenure-track Assistant or Associate Professor of Software Engineering position starting in August 2024.
+
+The rapidly-growing Computer Science department (https://charleston.edu/compsci/) has over 540 students who are enrolled in six undergraduate degree programs and two master’s programs.
+The successful applicant will demonstrate excellent communication skills, collegiality, and a passion for teaching. For an associate professor appointment, the successful candidate must have an active research program in a software engineering sub-discipline, a successful publication record, and years of experience qualifying for the associate rank. For an assistant professor appointment, the successful candidate must demonstrate promise to maintain an active research program and successful teaching in a software engineering sub-discipline. The successful candidate will provide support to a new Software Engineering bachelors program and mentor undergraduate and graduate students. An earned Ph.D. degree in Computer Science, Software Engineering, or a closely related field is required before the start date.
+
+Preference for this position will be given to candidates who have research and teaching experience in the general area of software engineering or any software engineering sub-discipline.
+
+- Review of applications begins **immediately** and will continue until the position is filled.
+- Charleston, SC. USA
+
+
+[Full Job Posting](https://jobs.cofc.edu/postings/14837){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Denison University
 {: #denison}
 
