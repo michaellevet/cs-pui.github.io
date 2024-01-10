@@ -38,7 +38,7 @@ _Excerpt_ The Computer Science Department at the College of Charleston invites a
 
 ------------
 
-### College of Charleston
+### College of Charleston Position 2
 {: #cofc2}
 
 _Excerpt_ The Computer Science Department at the College of Charleston invites applications for 1 tenure-track Assistant or Associate Professor of Software Engineering position starting in August 2024.
